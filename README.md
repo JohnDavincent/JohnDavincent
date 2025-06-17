@@ -7,6 +7,7 @@ I post every project that i have done here especially Lecture project.
 Project I have contributed to
 ## 🚀 PintarSaham Project
 - 🔗 [ Make Web Appcliations about stock market education with integrated AI](https://github.com/JustKalvin/pintar_saham_project)
+  
   A website that provides education about the basic concept of stocks. What makes this website different is that it uses AI based.
   So almost all of its main features use AI. The Features are module with some quiz, stock chart, forum discussion, stock news, simple trading game and Stock price prediction using LSTM model.
   ** My Contribution : **
