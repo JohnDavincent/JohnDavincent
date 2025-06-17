@@ -4,7 +4,8 @@ I love coding and building smart web applications, especially those powered by A
 Currently learning and working on Machine Learning, deep learning, web development, and software engineering.
 I post every project that i have done here especially Lecture project. 
 
-Project I have contributed to
+## Project I have contributed to :
+
 ## 🚀 PintarSaham Project
 - 🔗 [ Make Web Appcliations about stock market education with integrated AI](https://github.com/JustKalvin/pintar_saham_project)
   
