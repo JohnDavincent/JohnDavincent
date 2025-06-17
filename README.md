@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello, My Name is John Davincent 
 
-<!--
-**JohnDavincent/JohnDavincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love coding and building smart web applications, especially those powered by AI 🤖.  
+Currently learning and working on Machine Learning, deep learning, web development, and software engineering.
+I post every project that i have done here especially Lecture project. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project I have contributed to
+## 🚀 PintarSaham Project
+- 🔗 [ Make Web Appcliations about stock market education with integrated AI](https://github.com/JustKalvin/pintar_saham_project)
+  A website that provides education about the basic concept of stocks. What makes this website different is that it uses AI based.
+  So almost all of its main features use AI. The Features are module with some quiz, stock chart, forum discussion, stock news, simple trading game and Stock price prediction using LSTM model.
+  ** My Contribution : **
+  - Initiated and proposed the core idea of the project.  
+  - Developed the front-end interface using modern web technologies.  
+  - Built the foundational structure for the AI model to be further developed by the team.
